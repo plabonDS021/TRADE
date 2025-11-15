@@ -1,2 +1,2 @@
 # TRADE
-this is my backtesting ofa strategy of tade for algo
+this is my backtesting of a strategy of trade for algo.
